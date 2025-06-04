@@ -1,6 +1,6 @@
-# AutoQuizify – Quiz Generator from PDF or Text using Gemini
+# AutoQuizify – Quiz Generator from Text using Gemini
 
-AutoQuizify is a modern web application that enables users to effortlessly generate quizzes from PDF or text files using advanced AI (Gemini API). Built with Next.js (App Router), TypeScript, Tailwind CSS, and Shadcn UI, it provides an intuitive interface for educators, students, and content creators to create interactive quizzes in seconds.
+AutoQuizify is a modern web application that enables users to effortlessly generate quizzes from text files using advanced AI (Gemini API). Built with Next.js (App Router), TypeScript, Tailwind CSS, and Shadcn UI, it provides an intuitive interface for educators, students, and content creators to create interactive quizzes in seconds.
 
 ## Features
 - Upload `.txt` files for quiz generation
@@ -44,7 +44,7 @@ AutoQuizify is a modern web application that enables users to effortlessly gener
 app/            # Next.js app directory (routing, pages, layouts)
 components/     # Reusable UI and feature components
   ui/           # Shadcn UI components
-lib/            # Utility libraries (AI integration, PDF parsing, etc.)
+lib/            # Utility libraries (AI integration, utils etc.)
 public/         # Static assets (images, icons)
 types/          # TypeScript type definitions
 ```
